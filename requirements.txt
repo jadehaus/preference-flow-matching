@@ -1,0 +1,18 @@
+# Download PyTorch of desired version according to the instructions in the official PyTorch website.
+# torch>=2.2.2
+
+# Flow matching libraries
+torchcfm==1.0.5
+torchdiffeq==0.2.3
+torchdyn==1.0.6
+
+# Transformers library for dataset and models
+transformers==4.40.0
+
+# For PBRL example
+swig==4.2.1.post0
+huggingface-hub==0.23.4
+huggingface-sb3==3.0
+stable-baselines3[extra]>=2.0.0a4
+gymnasium==1.0.0
+box2d-py==2.3.5
