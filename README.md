@@ -65,8 +65,8 @@ To see full working examples, you can run `.ipynb` files. Since our method requi
 For ***conditional image generation task*** with `MNIST` dataset, see `example_mnist.ipynb`. For ***controlled text generation task*** on the `IMDB` dataset, refer to the codes in `example_imdb.ipynb`. Finally, for ***PBRL task*** on a simple `gym[box2d]` environment, see `example_pbrl.ipynb`. Corresponding codes for preference data collection are organized at `mnist_dataset.py`, `imdb_dataset.py`, and `pbrl_dataset.py`, respectively. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/mnist_example.gif" height="400">
-  <img src="./assets/bipedal_walker_positive.gif" height="400">
+  <img src="./assets/mnist_example.gif" height="200">
+  <img src="./assets/bipedal_walker_positive.gif" height="200">
 </div>
 
 ### Cite Our Work
